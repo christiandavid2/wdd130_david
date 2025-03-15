@@ -5,17 +5,17 @@ nav {
 nav a {
     color: white;
     display: block;
-    padding: 10px;
+    padding: 20px;
 }
 h1 {
     color: darkblue;
 }
 img {
-    width: 100%;
+    width: 150%;
     height: auto;
     border: 1px solid darkblue;
     padding: 2px;
-    box-shadow: 0 030px gray;
+    box-shadow: 0 0 30px gray;
 }
 p {
     padding: 10px;
@@ -41,8 +41,9 @@ main img {
     height: auto;
 }
 p { padding: 0; }
+
 footer {
-    margin: 15px;
+    margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
 }
